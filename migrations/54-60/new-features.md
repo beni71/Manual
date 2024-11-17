@@ -11,3 +11,7 @@ sidebar_position: 1
 All the new features that have been added to this version.
 Any changes in best practice.
 
+### Batched tag enhancement
+
+PR: https://github.com/joomla/joomla-cms/pull/40613
+Description: It is now possible to batch remove a tag.
