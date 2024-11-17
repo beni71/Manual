@@ -13,5 +13,6 @@ Any changes in best practice.
 
 ### Batched tag enhancement
 
+It is now possible to batch remove a tag.
+
 PR: https://github.com/joomla/joomla-cms/pull/40613
-Description: It is now possible to batch remove a tag.
